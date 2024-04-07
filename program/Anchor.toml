@@ -1,0 +1,19 @@
+[toolchain]
+
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+ai_task = "47VwehJMrzhe4i4JeKX2crv6fKYoEMhZPG8Bv8gRJ27v"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Localnet"
+wallet = "/Users/jax/.config/solana/id.json"
+
+[scripts]
+test = "npx ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+init = "npx ts-node -- scripts/init.ts"
