@@ -16,6 +16,9 @@ solana-aiagents-depin
 |  |-- comfyui :example aiagent of comfyui
 |  |-- monitor :monitor using telegraf for cli
 ```
+## Repo
+https://github.com/apuslabs/solana-hackthon-program
+https://github.com/apuslabs/solana-hackthon-cli
 
 ## How to use
 
