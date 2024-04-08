@@ -2,7 +2,7 @@
 
 This Project works for solana 2024 hackthon
 
-## Pitch Video: [https://youtu.be/RxMx54I4tEA](https://youtu.be/RxMx54I4tEA)
+## Pitch Video: [https://youtu.be/FnBgjGDlMX8](https://youtu.be/FnBgjGDlMX8)
 ## Demo  Video: [https://youtu.be/XmX2lvm1khY](https://youtu.be/XmX2lvm1khY)
 
 ## Project structure
