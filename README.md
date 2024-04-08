@@ -2,6 +2,17 @@
 
 This Project works for solana 2024 hackthon
 
+## How to use our Demo
+
+you can simply click[ https://apus.network](url)
+
+1. navigate to `Cosnsole`, Follow intrstutions adding your GPU Nodes
+2. navigate to `Playground`, Login & Hit generate
+3. navigate to `Task`, check the transcations
+
+## Demo Video: [https://youtu.be/RxMx54I4tEA](https://youtu.be/RxMx54I4tEA)
+## Pitch Video: [https://youtu.be/XmX2lvm1khY](https://youtu.be/XmX2lvm1khY)
+
 ## Project structure
 
 ```
@@ -111,10 +122,3 @@ Console GPU Supplier Accout
 [200,215,240,146,18,25,123,39,107,203,29,53,253,25,53,190,167,221,77,229,225,84,140,127,7,223,215,79,176,127,222,242,148,25,186,50,80,25,26,27,212,178,172,86,232,123,91,220,124,117,66,12,186,62,207,86,145,178,142,193,79,19,159,91]
 ```
 
-## How to use our Demo
-
-you can simply click `https://apus.network`
-
-1. navigate to `Cosnsole`, Follow intrstutions adding your GPU Nodes
-2. navigate to `Playground`, Login & Hit generate
-3. navigate to `Task`, check the transcations
